@@ -1,0 +1,64 @@
+<TrainingCenterDatabase>
+    <Activities>
+        <Activity Sport="Other">
+            <Id>2023-05-01T12:52:58.000Z</Id>
+            <Lap StartTime="2023-05-01T12:52:58.000Z">
+                <TotalTimeSeconds>1393.802</TotalTimeSeconds>
+                <DistanceMeters>1000.0</DistanceMeters>
+                <MaximumSpeed>2.052999973297119</MaximumSpeed>
+                <Calories>109</Calories>
+                <AverageHeartRateBpm>
+                    <Value>99</Value>
+                </AverageHeartRateBpm>
+                <MaximumHeartRateBpm>
+                    <Value>139</Value>
+                </MaximumHeartRateBpm>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+                    <Track>
+                        <Trackpoint>
+                            <Time>2023-05-01T12:52:58.000Z</Time>
+                            <Position>
+                            <LatitudeDegrees>43.33346433006227</LatitudeDegrees>
+                            <LongitudeDegrees>5.196714336052537</LongitudeDegrees>
+                            </Position>
+                            <AltitudeMeters>8.0</AltitudeMeters>
+                            <DistanceMeters>1.6200000047683716</DistanceMeters>
+                            <HeartRateBpm>
+                            <Value>93</Value>
+                            </HeartRateBpm>
+                            <Extensions>
+                            <ns3:TPX>
+                                <ns3:Speed>0.0</ns3:Speed>
+                            </ns3:TPX>
+                            </Extensions>
+                        </Trackpoint>
+                    </Track>
+            </Lap>
+            <Creator xsi:type="Device_t">
+                <Name>fēnix 5</Name>
+                <UnitId>3997512478</UnitId>
+                <ProductID>2697</ProductID>
+                <Version>
+                    <VersionMajor>25</VersionMajor>
+                    <VersionMinor>0</VersionMinor>
+                    <BuildMajor>0</BuildMajor>
+                    <BuildMinor>0</BuildMinor>
+                </Version>
+        </Creator>
+        </Activity>  
+    </Activities>
+    <Author xsi:type="Application_t">
+    <Name>Connect Api</Name>
+    <Build>
+      <Version>
+        <VersionMajor>0</VersionMajor>
+        <VersionMinor>0</VersionMinor>
+        <BuildMajor>0</BuildMajor>
+        <BuildMinor>0</BuildMinor>
+      </Version>
+    </Build>
+    <LangID>en</LangID>
+    <PartNumber>006-D2449-00</PartNumber>
+  </Author>
+</TrainingCenterDatabase>
